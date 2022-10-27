@@ -1,2 +1,4 @@
 
  Name : /home/ihababbas/guessing-game/.venv/bin/python /home/ihababbas/guessing-game/guessing_game/game.py | Score : 4
+ Name : هاشلا | Score : 2
+ Name : test | Score : 2
